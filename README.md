@@ -4,6 +4,7 @@ L'objectif est d'intégrer la maquette d'un site de planification de vacance nom
 
 ## Déploiement : <https://loicbdev.github.io/Reservia-p2-openclassrooms/>
 
+
 ![maquette web reservia](./img/mockup/desktop.png)
 
 ## Éléments fournis par l'entreprise virtuelle.
