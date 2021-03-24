@@ -28,6 +28,6 @@ L'objectif est d'intégrer la maquette d'un site de planification de vacances, n
 - Le code doit être versionné avec git et doit avoir un repo distant sur Github ou Gitlab.
 
 ## Notes sur la réalisation du projet
-- L'integration est faite sur l'éditeur Visual Studio Code avec les plugins [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) & [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph). Le thème, l'UI et les raccourcis clavier sont personnalisés.
+- L'intégration est faite sur l'éditeur Visual Studio Code avec les plugins [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) & [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph). Le thème, l'UI et les raccourcis clavier sont personnalisés.
 - [Sass](https://sass-lang.com/) est utilisé pour organiser le css. Vous trouverez le fichier sass dans le repository (/style).
 
