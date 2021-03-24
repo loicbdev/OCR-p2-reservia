@@ -1,5 +1,5 @@
 # Reservia
-Second projet du parcours développeur web d'Openclassrooms.
+Projet du début du parcours développeur web d'Openclassrooms.
 L'objectif est d'intégrer la maquette d'un site de planification de vacances, nommé "Reservia" (voir l'image ci-dessous).
 
 ## Déploiement : <https://loicbdev.github.io/reservia-p2-openclassrooms/>
