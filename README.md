@@ -2,7 +2,7 @@
 Projet du début du parcours développeur web d'Openclassrooms.
 L'objectif est d'intégrer la maquette d'un site de planification de vacances, nommé "Reservia" (voir l'image ci-dessous).
 
-## Déploiement : ???
+## Déploiement : <https://loicbdev.github.io/OCR-p2-reservia/>
 
 ![maquette web reservia](./img/mockup/desktop.png)
 
